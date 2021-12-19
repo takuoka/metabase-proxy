@@ -1,0 +1,7 @@
+{
+  "name": "metabase-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "takuoka <blackn.red42@gmail.com>",
+  "license": "MIT"
+}
