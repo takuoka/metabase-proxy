@@ -16,7 +16,7 @@ Proxy Server to access metabase API.
 ### Start server
 
 ``` shell
-yarn starts
+yarn start
 ```
 
 ### Test
